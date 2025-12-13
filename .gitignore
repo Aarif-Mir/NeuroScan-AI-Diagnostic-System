@@ -10,3 +10,4 @@ wheels/
 .venv
 ct_Scan_model_training.ipynb
 models/
+chroma_db
