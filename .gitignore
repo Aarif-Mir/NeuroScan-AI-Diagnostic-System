@@ -8,5 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-.ct_Scan_model_training.ipynb
-.models/
+ct_Scan_model_training.ipynb
+models/
