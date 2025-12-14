@@ -29,9 +29,7 @@ def display_image(file):
         """,
         unsafe_allow_html=True
     )
-    # st.markdown('<div class="ct-image">', unsafe_allow_html=True)
     st.image(file,width = 300)
-    # st.markdown('</div>', unsafe_allow_html=True)
 
 
 # ---------------- Header ----------------
