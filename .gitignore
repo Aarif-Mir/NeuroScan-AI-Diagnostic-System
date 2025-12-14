@@ -11,4 +11,4 @@ wheels/
 ct_Scan_model_training.ipynb
 models/
 chroma_db
-models\tf_cnn
+models\\tf_cnn\\resnet_model.keras
