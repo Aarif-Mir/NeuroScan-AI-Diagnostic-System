@@ -13,3 +13,5 @@ models/
 chroma_db
 models/
 data/
+models/tf_cnn/
+models/tf_cnn/resnet_model.keras
